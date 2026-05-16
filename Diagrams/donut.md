@@ -13,10 +13,12 @@ clear visualization of malware behavior.
 
 # Included Diagrams
 
-- Supported Platforms
+- Supported Platforms <img width="753" height="162" alt="image" src="https://github.com/user-attachments/assets/d06e1ca9-5867-4977-9936-fb78650ab3a6" />
+
 - Execution Method <img width="752" height="501" alt="image" src="https://github.com/user-attachments/assets/7f894bc8-4d6e-4e64-9384-4611c1f46c5d" />
 
-- Defense Evasion
+- Defense Evasion <img width="752" height="396" alt="image" src="https://github.com/user-attachments/assets/7bb12645-b0a0-4a9d-875f-1de14bb08462" />
+
 
 ---
 
