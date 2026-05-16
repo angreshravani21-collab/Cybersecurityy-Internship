@@ -13,38 +13,31 @@ malware behavior, and defensive strategies.
 
 ---
 
-# Green Lambert Attack Flow
+# operation Dream Job - lazarus group 
+# targeted sectors
+!targeted sectors](<img width="547" height="415" alt="targeted sectors" src="https://github.com/user-attachments/assets/a8390ebf-0855-48f7-994a-83d30c735803" />
 
-![Green Lambert Attack Flow](GreenLambert_AttackFlow.png)
-
----
-
-# Green Lambert MITRE ATT&CK Mapping
-
-![Green Lambert MITRE Mapping](GreenLambert_MITRE_Map.png)
 
 ---
 
-# Green Lambert Command & Control Flow
+# targeted countries
 
-![Green Lambert C2 Flow](GreenLambert_C2Flow.png)
+!<img width="753" height="502" alt="targeted countries" src="https://github.com/user-attachments/assets/48bcdc30-7add-4056-8077-38d0968db26d" />
+)
 
 ---
 
-# Green Lambert Malware Lifecycle
+# timeline
+<img width="703" height="565" alt="image" src="https://github.com/user-attachments/assets/2e4e51e0-75e0-4326-8530-1e26aa59b5d9" />
 
-![Green Lambert Lifecycle](GreenLambert_Lifecycle.png)
 
 ---
 
 # Diagram Categories
 
-- Attack Flow Diagrams
-- Malware Lifecycle Diagrams
-- MITRE ATT&CK Mapping
-- Command & Control (C2) Flow
-- Network Attack Flow
-- Data Exfiltration Flowcharts
+- targeted sectors
+- targeted countries
+- timeline
 
 ---
 
